@@ -33,7 +33,7 @@ The Blood Bank Management System Software is a comprehensive, ready-to-use solut
 3. Run the software and follow the on-screen instructions to log in and start managing blood bank donor information.
 
 ## Dependencies
-- [List any dependencies or prerequisites required to run the software]
+- Software is designed efficently using C and Database. 
 
 ## Contributing
 - Contributions are welcome! If you'd like to contribute to this project, please follow our [Code with C].
