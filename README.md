@@ -39,7 +39,7 @@ The Blood Bank Management System Software is a comprehensive, ready-to-use solut
 - Contributions are welcome! If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
-- This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+- This project is licensed under the [Subhrajeet Sikdar].
 
 ## Acknowledgments
 - [Any acknowledgments or credits to individuals or organizations that contributed to the project]
